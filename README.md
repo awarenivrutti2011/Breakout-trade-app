@@ -1,2 +1,3 @@
-# Breakout-trade-app
-New pro 1
+# Breakout Trade DevOps Project
+
+React + Spring Boot app with Kubernetes, Helm, Jenkins, ArgoCD, Git, and Maven.
